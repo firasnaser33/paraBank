@@ -1,0 +1,20 @@
+task1: Verify Header
+
+task2: logIn
+
+task3: open new checking account
+subtask-  verify message "//p[.='Congratulations, your account is now open.']"
+
+task4: open saving account
+
+task5: transfer funds
+
+task6: request loan
+
+
+
+
+
+
+
+
